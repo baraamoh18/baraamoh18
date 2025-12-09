@@ -54,15 +54,3 @@ I am a passionate Frontend Developer with a focus on building responsive, user-f
 
 ---
 
-### 📂 Featured Projects
-
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Project Name 1** | A brief description of what this project does. | `React` `TypeScript` |
-| **Project Name 2** | A brief description of what this project does. | `HTML` `CSS` `JS` |
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=baraamoh18&color=blueviolet" alt="Profile Views" />
-</div>
