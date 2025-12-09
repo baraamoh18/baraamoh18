@@ -1,5 +1,4 @@
 <div align="center">
-  
   <h1 align="center">Hi there, I'm Al-Baraa Mohamed! 👋</h1>
   <h3 align="center">Frontend Developer | React & TypeScript Enthusiast</h3>
 
@@ -44,8 +43,12 @@ I am a passionate Frontend Developer with a focus on building responsive, user-f
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 What I'm Working On
 
-![Al-Baraa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baraamoh18&show_icons=true&theme=tokyonight&hide_border=true)
+Since I am currently building my portfolio, check out my LinkedIn for my full history!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baraamoh18&layout=compact&theme=tokyonight&hide_border=true)
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=baraamoh18&color=blueviolet" alt="Profile Views" />
+</div>
