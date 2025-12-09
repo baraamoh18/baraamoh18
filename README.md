@@ -46,11 +46,6 @@ I am a passionate Frontend Developer with a focus on building responsive, user-f
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baraamoh18&show_icons=true&theme=tokyonight&hide_border=true" alt="Al-Baraa's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baraamoh18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+![Al-Baraa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baraamoh18&show_icons=true&theme=tokyonight&hide_border=true)
 
----
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baraamoh18&layout=compact&theme=tokyonight&hide_border=true)
